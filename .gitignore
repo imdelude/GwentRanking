@@ -1,0 +1,12 @@
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+.obj/*
+.bin/*
+
+# End of https://www.gitignore.io/api/visualstudiocode

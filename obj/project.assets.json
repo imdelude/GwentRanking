@@ -12592,11 +12592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Temp\\GwentRanking\\GwentRanking.csproj",
+      "projectUniqueName": "d:\\Temp\\GwentRanking\\GwentRanking\\GwentRanking.csproj",
       "projectName": "GwentRanking",
-      "projectPath": "d:\\Temp\\GwentRanking\\GwentRanking.csproj",
+      "projectPath": "d:\\Temp\\GwentRanking\\GwentRanking\\GwentRanking.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "d:\\Temp\\GwentRanking\\obj\\",
+      "outputPath": "d:\\Temp\\GwentRanking\\GwentRanking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
