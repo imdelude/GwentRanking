@@ -1,0 +1,10 @@
+d:\Temp\GwentRanking\bin\Debug\netcoreapp2.0\GwentRanking.deps.json
+d:\Temp\GwentRanking\bin\Debug\netcoreapp2.0\GwentRanking.runtimeconfig.json
+d:\Temp\GwentRanking\bin\Debug\netcoreapp2.0\GwentRanking.runtimeconfig.dev.json
+d:\Temp\GwentRanking\bin\Debug\netcoreapp2.0\GwentRanking.dll
+d:\Temp\GwentRanking\bin\Debug\netcoreapp2.0\GwentRanking.pdb
+d:\Temp\GwentRanking\obj\Debug\netcoreapp2.0\GwentRanking.csproj.CoreCompileInputs.cache
+d:\Temp\GwentRanking\obj\Debug\netcoreapp2.0\GwentRanking.AssemblyInfoInputs.cache
+d:\Temp\GwentRanking\obj\Debug\netcoreapp2.0\GwentRanking.AssemblyInfo.cs
+d:\Temp\GwentRanking\obj\Debug\netcoreapp2.0\GwentRanking.dll
+d:\Temp\GwentRanking\obj\Debug\netcoreapp2.0\GwentRanking.pdb
