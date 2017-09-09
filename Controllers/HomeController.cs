@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using GwentRanking.Models;
-using GwentRanking.Data;
 using Newtonsoft.Json;
 using System.IO;
 
